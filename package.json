@@ -26,7 +26,7 @@
     "minimist": "^1.1.2",
     "node-libs-browser": "^0.5.2",
     "react": "^0.13.3",
-    "react-hot-loader": "^1.2.8",
+    "react-hot-loader": "^2.0.0-alpha-4",
     "style-loader": "^0.12.3",
     "url-loader": "^0.5.6",
     "webpack": "^1.10.5",
